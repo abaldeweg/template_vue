@@ -2,10 +2,6 @@
 import { useTitle } from '@baldeweg/ui'
 import { useI18n } from 'vue-i18n'
 
-defineProps({
-  auth: Object,
-})
-
 const { t } = useI18n()
 
 useTitle({ title: t('welcome') })

@@ -10,7 +10,7 @@ Description
 
 ## Get Started
 
-First, install degit with `npm install -g degit` and then download the repo `degit https://github.com/abaldeweg/templates_vue`.
+First, install degit with `yarn global add degit` and then download the repo `degit git@github.com:abaldeweg/template_vue.git`.
 
 ## Env Vars
 
