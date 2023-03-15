@@ -1,3 +1,5 @@
+This repo has been moved to <https://github.com/abaldeweg/ui/tree/main/packages/%40baldeweg/template-vue>
+
 # Name
 
 Description
